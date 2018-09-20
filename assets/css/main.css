@@ -166,7 +166,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			border-bottom-color: transparent;
+			border-bottom-color: pink;
 		}
 
 	strong, b {
@@ -288,6 +288,7 @@ input, select, textarea {
 
 		hr.major {
 			margin: 3em 0;
+			color: pink;
 		}
 
 	.align-left {
@@ -1861,6 +1862,7 @@ input, select, textarea {
 			padding-left: 1.35em;
 		}
 
+
 			input[type="submit"].icon:before,
 			input[type="reset"].icon:before,
 			input[type="button"].icon:before,
@@ -2350,7 +2352,6 @@ input, select, textarea {
 
 		.image img {
 			border-radius: 8px;
-			display: block;
 		}
 
 		.image.left, .image.right {
@@ -2497,8 +2498,10 @@ input, select, textarea {
 			margin-left: 0;
 		}
 
-			ul.actions.special li:first-child {
+			ul.actions.special li:first-child{
 				padding-left: 0;
+				background-color: pink;
+				border-radius:10px;
 			}
 
 		ul.actions.stacked {
@@ -2581,7 +2584,7 @@ input, select, textarea {
 					ul.actions:not(.fixed) li .button {
 						width: 100%;
 					}
-
+	
 						ul.actions:not(.fixed) li input[type="submit"].icon:before,
 						ul.actions:not(.fixed) li input[type="reset"].icon:before,
 						ul.actions:not(.fixed) li input[type="button"].icon:before,
@@ -3107,8 +3110,8 @@ input, select, textarea {
 				#header.alt .logo img {
 					display: block;
 					margin: 0 auto;
-					max-width: 75%;
-					border-radius: 200px;
+					max-width: 100%;
+					border-radius: 300px;
 				}
 
 		@media screen and (max-width: 1280px) {
@@ -3203,12 +3206,12 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		background-color: #ffffff;
-		color: #636363;
+		color: #af7ac5;
 		position: absolute;
 		width: 64em;
 		max-width: calc(100% - 4em);
 		padding: 1em;
-		background-color: #f7f7f7;
+		background-color: #F08080;
 		border-top-left-radius: 0.25em;
 		border-top-right-radius: 0.25em;
 		cursor: default;
@@ -3284,7 +3287,7 @@ input, select, textarea {
 					}
 
 					#nav ul li a.active {
-						background-color: #ffffff;
+						background-color: pink;
 						box-shadow: none;
 					}
 

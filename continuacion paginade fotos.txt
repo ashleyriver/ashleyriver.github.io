@@ -1,0 +1,375 @@
+<div class="content-all">
+					<div class="content-carrousel">
+						
+						<figure><img onclick="document.getElementById('id31').style.display='block'"src="images/31.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id32').style.display='block'"src="images/32.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id33').style.display='block'"src="images/33.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id34').style.display='block'"src="images/34.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id35').style.display='block'"src="images/35.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id36').style.display='block'"src="images/36.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id37').style.display='block'"src="images/37.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id38').style.display='block'"src="images/38.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id39').style.display='block'"src="images/39.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id40').style.display='block'"src="images/40.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id41').style.display='block'"src="images/41.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id42').style.display='block'"src="images/42.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id43').style.display='block'"src="images/43.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id44').style.display='block'"src="images/44.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id45').style.display='block'"src="images/45.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id46').style.display='block'"src="images/46.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id47').style.display='block'"src="images/47.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id48').style.display='block'"src="images/48.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id49').style.display='block'"src="images/49.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id50').style.display='block'"src="images/50.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id51').style.display='block'"src="images/51.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id52').style.display='block'"src="images/52.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id53').style.display='block'"src="images/53.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id54').style.display='block'"src="images/54.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id55').style.display='block'"src="images/55.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id56').style.display='block'"src="images/56.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id57').style.display='block'"src="images/57.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id58').style.display='block'"src="images/58.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id59').style.display='block'"src="images/59.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id60').style.display='block'"src="images/60.jpg" alt="ashleyrivera"></figure>
+					</div>
+				</div>
+
+
+
+<!--Segundo carrousel de imagenes-->
+	<div id="main">
+		<section class="main special">		
+			<header id="header" class="alt">
+				
+			</header>
+		</section>
+	</div>	
+
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id31" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id31').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright" title="Close">×</span>
+        <img src="images/31.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id32" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id32').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright" title="Close">×</span>
+        <img src="images/32.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+	
+			<!--modal de fotos seleccionadas-->
+  <div id="id33" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id33').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright" title="Close">×</span>
+        <img src="images/33.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id34" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id34').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright" title="Close">×</span>
+        <img src="images/34.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id35" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id35').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/35.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id36" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id36').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/36.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id37" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id37').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/37.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id38" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id38').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/38.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id39" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id39').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/39.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id40" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id40').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/40.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id41" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id41').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/41.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id42" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id42').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/42.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id43" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id43').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/43.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id44" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id44').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/44.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+		
+				<!--modal de fotos seleccionadas-->
+  <div id="id45" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id45').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/45.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id46" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id46').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/46.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id47" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id47').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/47.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id48" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id48').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/48.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+	
+			<!--modal de fotos seleccionadas-->
+  <div id="id49" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id49').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/49.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id50" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id50').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/50.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id51" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id51').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/51.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id52" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id52').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/52.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id53" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id53').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/53.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id54" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id54').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/54.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id55" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id55').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/55.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id56" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id56').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/56.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+			<!--modal de fotos seleccionadas-->
+  <div id="id57" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id57').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/57.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+	<div id="id58" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id58').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/58.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+	<div id="id59" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id59').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/59.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>
+
+	<div id="id60" class="w3-modal">
+    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:800px">
+  
+      <div class="w3-center"><br/>
+        <span onclick="document.getElementById('id60').style.display='none'" class="w3-button w3-xlarge w3-grey w3-display-topright w3-center" title="Close">×</span>
+        <img src="images/60.jpg" alt="ashleyrivera" style="width:40%" class="w3-center w3-margin-top">
+      </div>
+  </div>
+</div>	

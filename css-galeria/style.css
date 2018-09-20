@@ -1,0 +1,246 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: arial;
+	margin-top: 80px;
+}
+
+.content-all{
+	width: 80px;
+	perspective: 1080px;
+	position: relative;
+	margin:auto;
+	margin-top: 10px;
+}
+
+.content-carrousel{
+	width: 100%;
+	position: absolute;
+	animation:rotar 50s infinite linear;
+	transform-style: preserve-3d;
+}
+
+.content-carrousel:hover{
+	animation-play-state: paused;
+	cursor: pointer;
+}
+
+.content-carrousel img{border-radius: 9px;}
+.content-carrousel figure:nth-child(1){transform: rotateY(0deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(2){transform: rotateY(12deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(3){transform: rotateY(24deg)
+	translateZ(380px);}	
+
+	.content-carrousel figure:nth-child(4){transform: rotateY(36deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(5){transform: rotateY(48deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(6){transform: rotateY(60deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(7){transform: rotateY(72deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(8){transform: rotateY(84deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(9){transform: rotateY(96deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(10){transform: rotateY(108deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(11){transform: rotateY(120deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(12){transform: rotateY(132deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(13){transform: rotateY(144deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(14){transform: rotateY(156deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(15){transform: rotateY(168deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(16){transform: rotateY(180deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(17){transform: rotateY(192deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(18){transform: rotateY(204deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(19){transform: rotateY(216deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(20){transform: rotateY(228deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(21){transform: rotateY(240deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(22){transform: rotateY(252deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(23){transform: rotateY(264deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(24){transform: rotateY(276deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(25){transform: rotateY(288deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(26){transform: rotateY(300deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(27){transform: rotateY(312deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(28){transform: rotateY(324deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(29){transform: rotateY(334deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(30){transform: rotateY(346deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(31){transform: rotateY(358deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(32){transform: rotateY(370deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(33){transform: rotateY(382deg)
+	translateZ(380px);}	
+
+	.content-carrousel figure:nth-child(34){transform: rotateY(394deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(35){transform: rotateY(406deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(36){transform: rotateY(418deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(37){transform: rotateY(430deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(38){transform: rotateY(442deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(39){transform: rotateY(454deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(40){transform: rotateY(466deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(41){transform: rotateY(478deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(42){transform: rotateY(490deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(43){transform: rotateY(502deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(44){transform: rotateY(514deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(45){transform: rotateY(526deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(46){transform: rotateY(538deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(47){transform: rotateY(550deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(48){transform: rotateY(562deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(49){transform: rotateY(574deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(50){transform: rotateY(586deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(51){transform: rotateY(598deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(52){transform: rotateY(610deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(53){transform: rotateY(622deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(54){transform: rotateY(634deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(55){transform: rotateY(646deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(56){transform: rotateY(658deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(57){transform: rotateY(670deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(58){transform: rotateY(682deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(59){transform: rotateY(694deg)
+	translateZ(380px);}
+
+	.content-carrousel figure:nth-child(60){transform: rotateY(706deg)
+	translateZ(380px);}
+
+.content-carrousel figure{
+	width: 100%;
+	height: 120px;
+	position: absolute;
+	overflow: hidden;
+	box-shadow: 0px 0px 20px 8px pink;
+	transition: all 300ms;
+}
+
+.content-carrousel figure:hover{
+	box-shadow: 0px 0px 0px 0px pink;
+	transition: all 300ms;
+}
+
+.content-carrousel img{
+	width: 90%;
+	transition: all 300ms;
+}
+
+.content-carrousel img:hover{
+	transform: scale(5.2);
+	transition: all 300ms;
+}
+
+@keyframes rotar {
+	from{
+		transform: rotateY(0deg);
+	}to{
+		transform: rotateY(360deg);
+	}
+
+}
