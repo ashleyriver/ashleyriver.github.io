@@ -27,7 +27,9 @@ h1{
 	border: 1px solid #ddd;
 	border-radius: 4px;
 	padding: 5px;
-	width: 100px;
+	width:200px;
+	height:400px;
+	object-fit:cover;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	-ms-border-radius: 4px;
