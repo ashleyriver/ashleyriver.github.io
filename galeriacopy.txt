@@ -20,15 +20,42 @@
 			<section class="main special">		
 			<header id="header" class="alt">
 				<span class="logo"><a href="index.html"><img src="images/logo.ico" alt="ashleyrivera" title="Inicio"/></a></span>
-        <h1>MI GALERIA</h1>
-      </header>
-      <div class="row">
-        <div class="column">
-          <div class="content">
-            <figure><img onclick="document.getElementById('id01').style.display='block'"src="images/1.jpg" alt="ashleyrivera"></figure>
-          </div>
-        </div>
-        </div>
+				<h1>MI GALERIA</h1>
+				<div class="content-all">
+					<div class="content-carrousel">
+						<figure><img onclick="document.getElementById('id01').style.display='block'"src="images/1.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id02').style.display='block'"src="images/2.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id03').style.display='block'"src="images/3.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id04').style.display='block'"src="images/4.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id05').style.display='block'"src="images/5.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id06').style.display='block'"src="images/6.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id07').style.display='block'"src="images/7.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id08').style.display='block'"src="images/8.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id09').style.display='block'"src="images/9.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id10').style.display='block'"src="images/10.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id11').style.display='block'"src="images/11.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id12').style.display='block'"src="images/12.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id13').style.display='block'"src="images/13.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id14').style.display='block'"src="images/14.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id15').style.display='block'"src="images/15.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id16').style.display='block'"src="images/16.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id17').style.display='block'"src="images/17.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id18').style.display='block'"src="images/18.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id19').style.display='block'"src="images/19.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id20').style.display='block'"src="images/20.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id21').style.display='block'"src="images/21.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id22').style.display='block'"src="images/22.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id23').style.display='block'"src="images/23.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id24').style.display='block'"src="images/24.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id25').style.display='block'"src="images/25.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id26').style.display='block'"src="images/26.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id27').style.display='block'"src="images/27.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id28').style.display='block'"src="images/28.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id29').style.display='block'"src="images/29.jpg" alt="ashleyrivera"></figure>
+						<figure><img onclick="document.getElementById('id30').style.display='block'"src="images/30.jpg" alt="ashleyrivera"></figure>
+					</div>
+				</div>
+			</header>
 			</section>						
 
 			
