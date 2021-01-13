@@ -26,10 +26,8 @@ h1{
   img {
 	border: 1px solid #ddd;
 	border-radius: 4px;
-	padding: 2px;
-	object-fit: scale-down;
-	height: 50vh;
-	width: 100%;
+	padding: 5px;
+	width: 100px;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	-ms-border-radius: 4px;
